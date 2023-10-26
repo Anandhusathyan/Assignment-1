@@ -1,0 +1,37 @@
+.outbox{
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+.border-box{
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: #eee;
+    box-shadow: 2px 2px 4px 4px rgba(0,0,0, 0.5);
+}
+
+input{
+    width: 300px;
+    height: 25px;
+    margin: 10px;
+    font-size: large;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+input:focus{
+    outline: none;
+}
+
+.err{
+    width: 200px;
+    height: 30px;
+    display: inline-block;
+    font-weight: bold;
+    color: #fff;
+    background-color: rgb(229, 16, 16);
+}

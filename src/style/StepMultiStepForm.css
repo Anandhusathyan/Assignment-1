@@ -1,0 +1,24 @@
+.outbox1{
+    margin-top: 10%;
+    
+}
+
+#butt-coll{
+    text-align: center;
+    margin: 0 5% ;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    margin: 20px;
+    font-size: large;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+button:active{
+    background-color: black;
+    color: white;
+    transform: scale(0.9);
+}
